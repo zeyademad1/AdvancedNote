@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/add_icon_back.xml" value="0.3410958904109589" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/add_url_background.xml" value="0.35342465753424657" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/backgound_search.xml" value="0.387037037037037" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/delete_back.xml" value="0.35342465753424657" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/done_stroke.xml" value="0.35342465753424657" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/ic_done.xml" value="0.35342465753424657" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/miscallenous_bac.xml" value="0.3876953125" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/miscallenous_background.xml" value="0.35342465753424657" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/note_color1.xml" value="0.35342465753424657" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/note_color2.xml" value="0.35342465753424657" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/note_color3.xml" value="0.35342465753424657" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/note_color4.xml" value="0.35342465753424657" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/note_color5.xml" value="0.35342465753424657" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/note_item_background.xml" value="0.35342465753424657" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/drawable/subtitle_indicator.xml" value="0.35342465753424657" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/layout/activity_create_note.xml" value="0.25" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/layout/add_url_layout.xml" value="0.3439814814814815" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/layout/delete_note_layout.xml" value="0.3439814814814815" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/layout/layout_miscallenous.xml" value="0.33" />
+        <entry key="..\:/Projects/AdvancedNote/app/src/main/res/layout/note_item_layout.xml" value="0.3439814814814815" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="android.annotation.SuppressLint" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
